@@ -1,0 +1,12 @@
+﻿  labDeq.cpp
+d:\visual\labdeq\labdeq\dequeue.h(145): warning C4018: <: несоответствие типов со знаком и без знака
+  d:\visual\labdeq\labdeq\dequeue.h(143): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  d:\visual\labdeq\labdeq\dequeue.h(114): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Dequeue<const char *>::clone(const Dequeue<const char *> &)"
+  d:\visual\labdeq\labdeq\dequeue.h(37): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  d:\visual\labdeq\labdeq\labdeq.cpp(28): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Dequeue<const char *>::pushBack(InfoType)"
+          with
+          [
+              InfoType=const char *
+          ]
+  d:\visual\labdeq\labdeq\dequeue.h(167): note: выполняется компиляция ссылки на экземпляр шаблон класс "Dequeue<const char *>"
+  labDeq.vcxproj -> D:\visual\labDeq\Debug\labDeq.exe
